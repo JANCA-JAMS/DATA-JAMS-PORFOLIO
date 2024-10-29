@@ -1,5 +1,5 @@
 # DATA-JAMS-Porfolio
-Data-JAMS
+DATA JAMS
 
 ### Education
 Physics, PhD
