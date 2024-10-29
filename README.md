@@ -12,8 +12,16 @@ Data scientist @ Toyota Financial Services
 ### Projects
 EEG Band Discovery
 
-# Power-BI-Portfolio-Projects
-
 # 📊 **Proyectos realizados en Power BI** 📊
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+   ## 📈 [*Dashboard Análisis Financiero*]
+     en este xxxx
+   (https://app.powerbi.com/view?r=eyJrIjoiYWQ2YzJkNjEtZjJkNS00YjBlLTliODItMjQwY2Y0NDZjMjk3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
+# 📊 **Proyectos realizados en Excel** 📊
+
+![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+# 📊 **Proyectos realizados en Excel** 📊
