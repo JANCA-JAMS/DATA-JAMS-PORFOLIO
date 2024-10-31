@@ -7,9 +7,9 @@ Business Administration
 Technician in Accounting                                                                                                                                                     
 
 ## Work Experience
-Data scientist @ Toyota Financial Services
-- big impact project 1!
-- big impact project 2!
+Accounting Assistant / Billing
+Operations Assistant / Document Management at Banco Davivienda
+Professional Accounting Internship at Banco Nacional de Costa Rica
 
 ## Projects
 
