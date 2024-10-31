@@ -7,10 +7,8 @@ Business Administration
 Technician in Accounting                                                                                                                                                     
 
 ## Work Experience
-Accounting Assistant / Billing
-Operations Assistant / Document Management at Banco Davivienda
-Professional Accounting Internship at Banco Nacional de Costa Rica
-
+Accounting Assistant / Billing                                                                                                                                                                                                Operations Assistant / Document Management at Banco Davivienda                                                                                                                                                                
+Professional Accounting Internship at Banco Nacional de Costa Rica                                                                                                                                                             
 ## Projects
 
 ![](https://github.com/JANCA-JAMS/DATA-JAMS-PORFOLIO/blob/main/TP1/Perfil%20circular.png)
