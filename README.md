@@ -23,4 +23,4 @@ Professional Accounting Internship at Banco Nacional de Costa Rica
 
 ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-## 📊 **Proyectos realizados en Excel** 📊
+## 📊 **Proyectos realizados en SQL** 📊
