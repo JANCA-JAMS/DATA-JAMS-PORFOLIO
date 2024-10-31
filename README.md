@@ -13,6 +13,8 @@ Data scientist @ Toyota Financial Services
 
 ## Projects
 
+![](https://github.com/JANCA-JAMS/DATA-JAMS-PORFOLIO/blob/main/TP1/Perfil%20circular.png)
+
 ## 📊 **Proyectos realizados en Excel** 📊
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
