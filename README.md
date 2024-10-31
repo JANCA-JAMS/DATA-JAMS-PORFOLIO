@@ -19,7 +19,6 @@ Data scientist @ Toyota Financial Services
 
    ### 📈 [*Dashboard Análisis Financiero*](https://app.powerbi.com/view?r=eyJrIjoiYWQ2YzJkNjEtZjJkNS00YjBlLTliODItMjQwY2Y0NDZjMjk3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
    ![Descripción de la imagen](TP1/Perfil circular.png)
-/TP1/Perfil circular.png
 
 ## 📊 **Proyectos realizados en Excel** 📊
 
