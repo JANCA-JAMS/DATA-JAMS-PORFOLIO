@@ -1,4 +1,4 @@
-# DATA-JAMS-Porfolio
+# DATA ANALYTS
 DATA JAMS
 
 ### Education
