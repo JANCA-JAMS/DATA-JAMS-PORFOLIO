@@ -12,9 +12,9 @@ Professional Accounting Internship at Banco Nacional de Costa Rica
 ## Projects
 
 ![](https://github.com/JANCA-JAMS/DATA-JAMS-PORFOLIO/blob/main/TP1/Perfil%20circular.png)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-## 📊 **Proyectos realizados en ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
- ** 📊
+## 📊 **Proyectos realizados en Power BI** 📊
 
 
    ### 📈 [*Dashboard Análisis Financiero*](https://app.powerbi.com/view?r=eyJrIjoiYWQ2YzJkNjEtZjJkNS00YjBlLTliODItMjQwY2Y0NDZjMjk3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) / 📈 [*Dashboard Análisis Financiero*](https://app.powerbi.com/view?r=eyJrIjoiYWQ2YzJkNjEtZjJkNS00YjBlLTliODItMjQwY2Y0NDZjMjk3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
