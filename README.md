@@ -19,8 +19,8 @@ Data scientist @ Toyota Financial Services
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-   ### 📈 [*Dashboard Análisis Financiero*](https://app.powerbi.com/view?r=eyJrIjoiYWQ2YzJkNjEtZjJkNS00YjBlLTliODItMjQwY2Y0NDZjMjk3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
-   ![Descripción de la imagen](TP1/Perfil circular.png)
+   ### 📈 [*Dashboard Análisis Financiero*](https://app.powerbi.com/view?r=eyJrIjoiYWQ2YzJkNjEtZjJkNS00YjBlLTliODItMjQwY2Y0NDZjMjk3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)         ### 📈 [*Dashboard Análisis Financiero*](https://app.powerbi.com/view?r=eyJrIjoiYWQ2YzJkNjEtZjJkNS00YjBlLTliODItMjQwY2Y0NDZjMjk3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+ 
 
 ## 📊 **Proyectos realizados en Excel** 📊
 
