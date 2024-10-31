@@ -18,8 +18,8 @@ Professional Accounting Internship at Banco Nacional de Costa Rica
 ## 📊 **Proyectos realizados en Power BI** 📊
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-📈 [*Dashboard Análisis Financiero*](https://app.powerbi.com/view?r=eyJrIjoiYWQ2YzJkNjEtZjJkNS00YjBlLTliODItMjQwY2Y0NDZjMjk3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) ![logo DATA JAMS](https://github.com/user-attachments/assets/3f53fd60-8c3b-45ec-8a7a-7c7d7508f3b3)
- / 📈 [*Dashboard Análisis Financiero*](https://app.powerbi.com/view?r=eyJrIjoiYWQ2YzJkNjEtZjJkNS00YjBlLTliODItMjQwY2Y0NDZjMjk3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) ![logo DATA JAMS](https://github.com/user-attachments/assets/3f53fd60-8c3b-45ec-8a7a-7c7d7508f3b3)
+📈 [*Dashboard Análisis Financiero*](https://app.powerbi.com/view?r=eyJrIjoiYWQ2YzJkNjEtZjJkNS00YjBlLTliODItMjQwY2Y0NDZjMjk3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)![Marca de agua](https://github.com/user-attachments/assets/9f801486-edce-4986-ba0e-359a66a074a1)
+ / 📈 [*Dashboard Análisis Financiero*](https://app.powerbi.com/view?r=eyJrIjoiYWQ2YzJkNjEtZjJkNS00YjBlLTliODItMjQwY2Y0NDZjMjk3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) ![Marca de agua](https://github.com/user-attachments/assets/9f801486-edce-4986-ba0e-359a66a074a1)
 
  
 
