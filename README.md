@@ -9,7 +9,7 @@ Technician in Accounting
 ## Work Experience
 Accounting Assistant / Billing                                                                                                                                                                                                
 Operations Assistant / Document Management at Banco Davivienda                                                                                                                                                                
-Professional Accounting Internship at Banco Nacional de Costa Rica
+Professional Accounting Internship at Banco Nacional de Costa Rica                                                                                                                                                            
 
 ## Projects
 
