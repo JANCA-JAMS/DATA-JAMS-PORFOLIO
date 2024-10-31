@@ -2,7 +2,9 @@
 DATA JAMS
 
 ### Education
-Physics, PhD
+Business and Data Analysis
+Business Administration
+Technician in Accounting
 
 ### Work Experience
 Data scientist @ Toyota Financial Services
