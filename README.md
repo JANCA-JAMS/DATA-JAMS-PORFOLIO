@@ -76,7 +76,7 @@
   <a href="https://app.powerbi.com/view?r=eyJrIjoiNzE0NWUwNzQtYWE4ZC00MTVlLWIwZjEtNDI0NDE3ZGFhZjQwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" target="_blank">
     <img src="TP1/Miaturas/01 - Miniatura Ganacias, Perdidas y Ventas .png" width="240" height="171" alt="Power BI">
   </a>
-  <p><strong>Sales and Profit Analysis Dashboard</strong></p>
+  <p><strong>Sales and Profit Dashboard</strong></p>
 </div>
 </td>
 </tr>
