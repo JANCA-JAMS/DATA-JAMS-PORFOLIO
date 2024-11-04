@@ -29,9 +29,7 @@ Professional Accounting Internship at Banco Nacional de Costa Rica
 <div align="center">
 <a href="https://app.powerbi.com/view?r=eyJrIjoiYWQ2YzJkNjEtZjJkNS00YjBlLTliODItMjQwY2Y0NDZjMjk3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" target="_blank"><img src="TP1/Miaturas/04 - Miniatura Finaciero enfocado en ingresos y gastos.png" width="240" height="171" alt="POWER BI"></a>
 
-</p>
-<p><strong>Financial Analysis Dashboard<strong></p>
-</div>
+<strong>Financial Analysis Dashboard<strong>
                                                                                       
 </td>
 
@@ -40,12 +38,10 @@ Professional Accounting Internship at Banco Nacional de Costa Rica
 <div align="center">                                       
 <a href="https://app.powerbi.com/view?r=eyJrIjoiZmU5NzMzY2EtMGRjZi00Mjg3LWEzZmUtMDc0ZTM5Mjg2Zjk1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" target="_blank"><img src="TP1/Miaturas/03 - Miniatura Income statement.png" width="240" height="171" alt="POWER BI"></a>
 
-</p>
-</p><strong>Income Statement Dashboard<strong></p>
+<strong>Income Statement Dashboard<strong>
 </div>                                                             
 </table>                                                                                 
-</div>
-<br>
+
 
 ## 📊 **Proyectos realizados en Excel** 📊
 ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
