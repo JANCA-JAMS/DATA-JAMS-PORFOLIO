@@ -1,13 +1,10 @@
-config.ylm
-title:   JANCARLO JAMS
-logo: /TP1/Perfil circular.png
-#description: text below image
-show_downloads: true
-theme: jekyll-theme-minimal
-
+<img src="TP1/Perfil%20circular.png" width="200" alt="Logo de Jancarlo Jams">
+    </td>
+    <td style="vertical-align: middle;">
+      <h2>HI I'M <a href="https://beacons.ai/data_jams">JANCARLO JAMS</a></h2>
+  
 <div align="center">
 <h1 align="center">DATA ANALYTS</h1>
-<h1 align="center">HI I'M <a href="https://beacons.ai/data_jams">JANCARLO JAMS</a> </h1>
 </div>
 <img src="TP1/Banner 3.png">
 
