@@ -1,6 +1,4 @@
 <img src="TP1/Perfil%20circular.png" width="200" alt="Logo de Jancarlo Jams">
-    </td>
-    <td style="vertical-align: middle;">
       <h2>HI I'M <a href="https://beacons.ai/data_jams">JANCARLO JAMS</a></h2>
   
 <div align="center">
