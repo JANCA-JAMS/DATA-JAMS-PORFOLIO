@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">DATA ANALYTS</h1>
-<h1 align="center">HI I'AM <a href="https://beacons.ai/data_jams">JANCARLO JAMS</a> </h1>
+<h1 align="center">HI I'M <a href="https://beacons.ai/data_jams">JANCARLO JAMS</a> </h1>
 </div>
 <img src="TP1/Banner 3.png">
 
