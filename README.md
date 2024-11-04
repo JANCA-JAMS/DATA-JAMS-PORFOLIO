@@ -4,7 +4,7 @@
 </div>
 <img src="TP1/Banner 3.png">
 
-![SOCIAL MEDIA](https://beacons.ai/data_jams)
+[SOCIAL MEDIA](https://beacons.ai/data_jams)
 
 ## Education
 Business and Data Analysis                                                                                                                                                   
