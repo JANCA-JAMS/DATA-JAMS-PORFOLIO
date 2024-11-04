@@ -24,7 +24,7 @@ Professional Accounting Internship at Banco Nacional de Costa Rica
 
 <table>
 <tr>
-<td width="33.3%">
+<td width="33.4%">
 <h3 align="center">Curso Android Básico</h3>
 <div align="center">
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
@@ -41,7 +41,7 @@ Professional Accounting Internship at Banco Nacional de Costa Rica
                                                                                       
 </td>
 
-<td width="33.3%">
+<td width="33.4%">
                <br>
 <h3 align="center">Arquitectura MVVM</h3>
 <div align="center">                                       
@@ -60,7 +60,7 @@ Professional Accounting Internship at Banco Nacional de Costa Rica
 
 </td>
 
-<td width="33.3%">
+<td width="33.4%">
                <br>
 <h3 align="center">Arquitectura MVVM</h3>
 <div align="center">                                       
