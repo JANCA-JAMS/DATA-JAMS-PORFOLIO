@@ -40,41 +40,21 @@
 
 <table>
 <tr>
-<td width="25%">
+<td width="50%">
 <h3 align="center">Financial Analysis</h3>
 <div align="center">
   <a href="https://app.powerbi.com/view?r=eyJrIjoiYWQ2YzJkNjEtZjJkNS00YjBlLTliODItMjQwY2Y0NDZjMjk3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" target="_blank">
-    <img src="TP1/Miaturas/04%20-%20Miniatura%20Finaciero%20enfocado%20en%20ingresos%20y%20gastos.png" width="300" height="200" alt="Financial Analysis Dashboard">
+    <img src="TP1/Miaturas/04%20-%20Miniatura%20Finaciero%20enfocado%20en%20ingresos%20y%20gastos.png" width="240" height="171" alt="Financial Analysis Dashboard">
   </a>
   <p><strong>Financial Analysis Dashboard</strong></p>
 </div>
 </td>
 
-<td width="25%">
+<td width="50%">
 <h3 align="center">Income Statement</h3>
 <div align="center">
   <a href="https://app.powerbi.com/view?r=eyJrIjoiZmU5NzMzY2EtMGRjZi00Mjg3LWEzZmUtMDc0ZTM5Mjg2Zjk1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" target="_blank">
-    <img src="TP1/Miaturas/03%20-%20Miniatura%20Income%20statement.png" width="300" height="200" alt="Income Statement Dashboard">
-  </a>
-  <p><strong>Income Statement Dashboard</strong></p>
-</div>
-</td>
-
-<td width="25%">
-<h3 align="center">Financial Analysis</h3>
-<div align="center">
-  <a href="https://app.powerbi.com/view?r=eyJrIjoiYWQ2YzJkNjEtZjJkNS00YjBlLTliODItMjQwY2Y0NDZjMjk3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" target="_blank">
-    <img src="TP1/Miaturas/04%20-%20Miniatura%20Finaciero%20enfocado%20en%20ingresos%20y%20gastos.png" width="300" height="200" alt="Financial Analysis Dashboard">
-  </a>
-  <p><strong>Financial Analysis Dashboard</strong></p>
-</div>
-</td>
-
-<td width="25%">
-<h3 align="center">Income Statement</h3>
-<div align="center">
-  <a href="https://app.powerbi.com/view?r=eyJrIjoiZmU5NzMzY2EtMGRjZi00Mjg3LWEzZmUtMDc0ZTM5Mjg2Zjk1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" target="_blank">
-    <img src="TP1/Miaturas/03%20-%20Miniatura%20Income%20statement.png" width="300" height="200" alt="Income Statement Dashboard">
+    <img src="TP1/Miaturas/03%20-%20Miniatura%20Income%20statement.png" width="240" height="171" alt="Income Statement Dashboard">
   </a>
   <p><strong>Income Statement Dashboard</strong></p>
 </div>
