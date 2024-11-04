@@ -87,6 +87,22 @@
 ## 📊 **Proyectos realizados en Excel** 📊
 ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+<table>
+<tr>
+<td width="25%">
+<h3 align="center">Sales Analysis</h3>
+<div align="center">
+  <a href="https://onedrive.live.com/edit?id=94455FE6605258!120&resid=94455FE6605258!120&cid=0094455fe6605258&ithint=file%2Cxlsx&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy8wMDk0NDU1ZmU2NjA1MjU4L0VWaFNZT1pmUlpRZ2dBQjRBQUFBQUFBQkExdFpCT0xEMW5XcGlLQkh5d2pPQUE_ZT1yTGN1Tk8&migratedtospo=true&wdo=2" target="_blank">
+    <img src="TP1/Miniaturas Excel/01 - Miniatura metricas rendimiento de ventas - vendedores_.png" width="240" height="171" alt="Power BI">
+  </a>
+  <p><strong>Sales Analysis Dashboard</strong></p>
+</div>
+</td>
+</tr>
+</table>
+
 ---
 
 ## 📊 **Proyectos realizados en SQL** 📊
+
+---
