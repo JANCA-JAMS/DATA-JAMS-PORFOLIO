@@ -11,8 +11,8 @@
   <img src="TP1/Banner%203.png" alt="Banner">
 </div>
 
-<div align="LEFT">
-  <h2><a href="https://beacons.ai/data_jams"><strong>SOCIAL MEDIA</strong></a><h2>
+<div align="left">
+  <h2><a href="https://beacons.ai/data_jams"><strong>SOCIAL MEDIA</strong></a></h2>
 </div>
 
 ---
@@ -70,4 +70,3 @@
 ---
 
 ## 📊 **Proyectos realizados en SQL** 📊
-
