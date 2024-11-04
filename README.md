@@ -11,8 +11,8 @@
   <img src="TP1/Banner%203.png" alt="Banner">
 </div>
 
-<div align="center">
-  <a href="https://beacons.ai/data_jams"><strong>SOCIAL MEDIA</strong></a>
+<div align="LEFT">
+  <h2><a href="https://beacons.ai/data_jams"><strong>SOCIAL MEDIA</strong></a><h2>
 </div>
 
 ---
