@@ -106,3 +106,7 @@
 ## 📊 **Proyectos realizados en SQL** 📊
 
 ---
+
+## 📊 **Proyectos realizados en Python** 📊
+
+---
