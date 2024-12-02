@@ -98,6 +98,16 @@
   <p><strong>Sales Analysis Dashboard</strong></p>
 </div>
 </td>
+
+  <td width="25%">
+<h3 align="center">Sales Analysis</h3>
+<div align="center">
+  <a href="https://1drv.ms/x/c/0094455fe6605258/EViJCTnqGqBBmOGZtUDRRCABJNiBie0pIof9fbCtatkVgA?e=ecfwcm" target="_blank">
+    <img src="TP1/Miniaturas Excel/01 - Miniatura metricas rendimiento de ventas - vendedores_.png" width="240" height="171" alt="Power BI">
+  </a>
+  <p><strong>Sales Analysis Dashboard</strong></p>
+</div>
+</td>
 </tr>
 </table>
 
