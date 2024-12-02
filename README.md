@@ -102,7 +102,7 @@
   <td width="25%">
 <h3 align="center">Sales Analysis</h3>
 <div align="center">
-  <a href="https://1drv.ms/x/c/0094455fe6605258/EViJCTnqGqBBmOGZtUDRRCABJNiBie0pIof9fbCtatkVgA?e=ecfwcm" target="_blank">
+  <a href="<iframe width="402" height="346" frameborder="0" scrolling="no" src="https://1drv.ms/x/c/0094455fe6605258/IQRYiQk56hqgQZjhmbVA0UQgAUW8WQTF5sdAtTd4pFCeyhg?em=2&wdHideGridlines=True&wdHideHeaders=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>" target="_blank">
     <img src="TP1/Miniaturas Excel/01 - Miniatura metricas rendimiento de ventas - vendedores_.png" width="240" height="171" alt="Power BI">
   </a>
   <p><strong>Sales Analysis Dashboard</strong></p>
