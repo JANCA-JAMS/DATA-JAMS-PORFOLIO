@@ -100,7 +100,7 @@
 </td>
 
   <td width="25%">
-<h3 align="center">Sales Analysis</h3>
+<h3 align="center">Retailers Analysis</h3>
 <div align="center">
   <a href="https://1drv.ms/x/c/0094455fe6605258/IQQ3UIXQgrdFTIft1Pd-JqtCAT7burRzjjhBHTFiPUwo2No" target="_blank">
     <img src="TP1/Miniaturas Excel/02 - Miniatura Coca-cola Retailers.png" width="240" height="171" alt="Power BI">
