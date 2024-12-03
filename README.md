@@ -46,7 +46,7 @@
   <a href="https://app.powerbi.com/view?r=eyJrIjoiYWQ2YzJkNjEtZjJkNS00YjBlLTliODItMjQwY2Y0NDZjMjk3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" target="_blank">
     <img src="TP1/Miaturas/04%20-%20Miniatura%20Finaciero%20enfocado%20en%20ingresos%20y%20gastos.png" width="240" height="171" alt="Power BI">
   </a>
-  <p><strong>Financial Analysis Dashboard</strong></p>
+  <p><strong>ETL, Power query , DAX</strong></p>
 </div>
 </td>
 
@@ -56,7 +56,7 @@
   <a href="https://app.powerbi.com/view?r=eyJrIjoiZmU5NzMzY2EtMGRjZi00Mjg3LWEzZmUtMDc0ZTM5Mjg2Zjk1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" target="_blank">
     <img src="TP1/Miaturas/03%20-%20Miniatura%20Income%20statement.png" width="240" height="171" alt="Power BI">
   </a>
-  <p><strong>Income Statement Dashboard</strong></p>
+  <p><strong>Dax, PowerQuery</strong></p>
 </div>
 </td>
 
@@ -76,7 +76,7 @@
   <a href="https://app.powerbi.com/view?r=eyJrIjoiNzE0NWUwNzQtYWE4ZC00MTVlLWIwZjEtNDI0NDE3ZGFhZjQwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" target="_blank">
     <img src="TP1/Miaturas/01 - Miniatura Ganacias, Perdidas y Ventas .png" width="240" height="171" alt="Power BI">
   </a>
-  <p><strong>Sales and Profit Dashboard</strong></p>
+  <p><strong>Dax, Power Query</strong></p>
 </div>
 </td>
 </tr>
@@ -95,7 +95,7 @@
   <a href="https://1drv.ms/x/c/0094455fe6605258/UQRYUmDmX0WUIIAAeAAAAAAAAOvQb9TFyBV21Fo" target="_blank">
     <img src="TP1/Miniaturas Excel/01 - Miniatura metricas rendimiento de ventas - vendedores_.png" width="240" height="171" alt="Power BI">
   </a>
-  <p><strong>Sales Analysis Dashboard</strong></p>
+  <p><strong>Pivot Tables</strong></p>
 </div>
 </td>
 
@@ -105,7 +105,7 @@
   <a href="https://1drv.ms/x/c/0094455fe6605258/IQQM_Ei2dqThSLTaskaCOAZ6AYJxqfFpLkKz2P2pnpltieE" target="_blank">
     <img src="TP1/Miniaturas Excel/02 - Miniatura Coca-cola Retailers.png" width="240" height="171" alt="Power BI">
   </a>
-  <p><strong>Sales Analysis Dashboard</strong></p>
+  <p><strong>Power Query , Power Pivot</strong></p>
 </div>
 </td>
 </tr>
