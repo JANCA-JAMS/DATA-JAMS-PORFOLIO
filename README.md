@@ -46,7 +46,7 @@
   <a href="https://app.powerbi.com/view?r=eyJrIjoiYWQ2YzJkNjEtZjJkNS00YjBlLTliODItMjQwY2Y0NDZjMjk3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" target="_blank">
     <img src="TP1/Miaturas/04%20-%20Miniatura%20Finaciero%20enfocado%20en%20ingresos%20y%20gastos.png" width="240" height="171" alt="Power BI">
   </a>
-  <p><strong>ETL, Power Query , DAX, UX/UI</strong></p>
+  <p><strong>ETL, PQuery , DAX, UX/UI</strong></p>
 </div>
 </td>
 
