@@ -105,7 +105,7 @@
   <a href="https://1drv.ms/x/c/0094455fe6605258/IQQM_Ei2dqThSLTaskaCOAZ6AYJxqfFpLkKz2P2pnpltieE" target="_blank">
     <img src="TP1/Miniaturas Excel/02 - Miniatura Coca-cola Retailers.png" width="240" height="171" alt="Power BI">
   </a>
-  <p><strong>Power Query , Power Pivot, UX/UI</strong></p>
+  <p><strong>PowerQuery, PowerPivot, UX/UI</strong></p>
 </div>
 </td>
 </tr>
