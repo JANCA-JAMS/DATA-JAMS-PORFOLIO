@@ -104,27 +104,26 @@
 ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 <table>
-<tr>
-<td width="25%">
-<h3 align="center">Sales Analysis</h3>
-<div align="center">
-  <a href="https://1drv.ms/x/c/0094455fe6605258/UQRYUmDmX0WUIIAAeAAAAAAAAOvQb9TFyBV21Fo" target="_blank">
-    <img src="TP1/Miniaturas Excel/01 - Miniatura metricas rendimiento de ventas - vendedores_.png" width="240" height="171" alt="Power BI">
-  </a>
-  <p><strong>Pivot Tables</strong></p>
-</div>
-</td>
-
-  <td width="25%">
-<h3 align="center">Retailers Analysis</h3>
-<div align="center">
-  <a href="https://1drv.ms/x/c/0094455fe6605258/IQQ3UIXQgrdFTIft1Pd-JqtCAT7burRzjjhBHTFiPUwo2No" target="_blank">
-    <img src="TP1/Miniaturas Excel/02 - Miniatura Coca-cola Retailers.png" width="240" height="171" alt="Power BI">
-  </a>
-  <p><strong>PowerQuery, PowerPivot, UX/UI</strong></p>
-</div>
-</td>
-</tr>
+  <tr>
+    <td width="25%">
+      <h3 align="center">Sales Analysis</h3>
+      <div align="center">
+        <a href="https://1drv.ms/x/c/0094455fe6605258/UQRYUmDmX0WUIIAAeAAAAAAAAOvQb9TFyBV21Fo" target="_blank">
+          <img src="TP1/Miniaturas Excel/01 - Miniatura metricas rendimiento de ventas - vendedores_.png" width="240" height="171" alt="Power BI">
+        </a>
+        <p><strong>Pivot Tables</strong></p>
+      </div>
+    </td>
+    <td width="25%">
+      <h3 align="center">Retailers Analysis</h3>
+      <div align="center">
+        <a href="https://1drv.ms/x/c/0094455fe6605258/IQQ3UIXQgrdFTIft1Pd-JqtCAT7burRzjjhBHTFiPUwo2No" target="_blank">
+          <img src="TP1/Miniaturas Excel/02 - Miniatura Coca-cola Retailers.png" width="240" height="171" alt="Power BI">
+        </a>
+        <p><strong>PowerQuery, PowerPivot, UX/UI</strong></p>
+      </div>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -136,3 +135,4 @@
 ## 📊 **Proyectos realizados en Python** 📊
 
 ---
+
