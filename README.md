@@ -78,6 +78,7 @@
   </a>
   <p><strong>Dax, Power Query</strong></p>
 </div>
+</td>
 
   <td width="25%">
 <h3 align="center">Detailed Purchase</h3>
