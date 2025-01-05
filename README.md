@@ -46,7 +46,7 @@
   <a href="https://app.powerbi.com/view?r=eyJrIjoiYWQ2YzJkNjEtZjJkNS00YjBlLTliODItMjQwY2Y0NDZjMjk3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" target="_blank">
     <img src="TP1/Miaturas/04%20-%20Miniatura%20Finaciero%20enfocado%20en%20ingresos%20y%20gastos.png" width="240" height="171" alt="Power BI">
   </a>
-  <p><strong>ETL, PQuery , DAX, UX/UI</strong></p>
+  <p><strong>ETL,DAX,UX/UI</strong></p>
 </div>
 </td>
 
@@ -66,7 +66,7 @@
   <a href="https://app.powerbi.com/view?r=eyJrIjoiZWI4NTJiZDUtOTNkMC00OGExLTk2OGQtYjIyYjNkZjYyZmViIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" target="_blank">
     <img src="TP1/Miaturas/02 - Miniatura Analisis Financiera DATA JAMS .png" width="240" height="171" alt="Power BI">
   </a>
-  <p><strong>Power Query, DAX, UX/UI</strong></p>
+  <p><strong>PQ,DAX,UX/UI</strong></p>
 </div>
 </td>
 
@@ -93,7 +93,7 @@
   <a href="https://app.powerbi.com/view?r=eyJrIjoiYjYwYzQ2MDUtNDYxYS00MWFiLTg0ZDAtY2ZlNDYwM2M3NTI3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" target="_blank">
     <img src="TP1/Miaturas/06 - Miniature DETAILED PURCHASE ANALYSIS .png" width="240" height="171" alt="Power BI">
   </a>
-  <p><strong>Dax, Power Query</strong></p>
+  <p><strong>Dax,UX/UI,PQy</strong></p>
 </div>
 </tr>
 </table>
