@@ -88,20 +88,21 @@
 <table>
   <tr>
     <td width="25%">
-    <h3 align="center">Detailed Purchase</h3>
-    <div align="center">
-      <a href="https://app.powerbi.com/view?r=eyJrIjoiYjYwYzQ2MDUtNDYxYS00MWFiLTg0ZDAtY2ZlNDYwM2M3NTI3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" target="_blank">
-        <img src="TP1/Miaturas/06 - Miniature DETAILED PURCHASE ANALYSIS .png" width="240" height="171" alt="Power BI">
-      </a>
-      <p><strong>DAX, UX/UI, PQ</strong></p>
-    </div>
+      <h3 align="center">Detailed Purchase</h3>
+      <div align="center">
+        <a href="https://app.powerbi.com/view?r=eyJrIjoiYjYwYzQ2MDUtNDYxYS00MWFiLTg0ZDAtY2ZlNDYwM2M3NTI3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" target="_blank">
+          <img src="TP1/Miaturas/06 - Miniature DETAILED PURCHASE ANALYSIS .png" width="240" height="171" alt="Power BI">
+        </a>
+        <p><strong>DAX, UX/UI, PQ</strong></p>
+      </div>
+    </td>
   </tr>
 </table>
 
----
+<hr>
 
-## 📊 **Proyectos realizados en Excel** 📊
-![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<h2>📊 **Proyectos realizados en Excel** 📊</h2>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Badge">
 
 <table>
   <tr>
@@ -126,13 +127,14 @@
   </tr>
 </table>
 
----
+<hr>
 
-## 📊 **Proyectos realizados en SQL** 📊
+<h2>📊 **Proyectos realizados en SQL** 📊</h2>
+<p>Contenido pendiente...</p>
 
----
+<hr>
 
-## 📊 **Proyectos realizados en Python** 📊
+<h2>📊 **Proyectos realizados en Python** 📊</h2>
+<p>Contenido pendiente...</p>
 
----
 
