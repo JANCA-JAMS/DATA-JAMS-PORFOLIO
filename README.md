@@ -79,6 +79,13 @@
   <p><strong>Dax, Power Query</strong></p>
 </div>
 </td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
 
   <td width="25%">
 <h3 align="center">Detailed Purchase</h3>
@@ -88,9 +95,6 @@
   </a>
   <p><strong>Dax, Power Query</strong></p>
 </div>
-</td>
-
-</td>
 </tr>
 </table>
 
