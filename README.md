@@ -87,13 +87,13 @@
 <table>
 <tr>
 
-  <td width="25%">
+<td width="25%">
 <h3 align="center">Detailed Purchase</h3>
 <div align="center">
   <a href="https://app.powerbi.com/view?r=eyJrIjoiYjYwYzQ2MDUtNDYxYS00MWFiLTg0ZDAtY2ZlNDYwM2M3NTI3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" target="_blank">
     <img src="TP1/Miaturas/06 - Miniature DETAILED PURCHASE ANALYSIS .png" width="240" height="171" alt="Power BI">
   </a>
-  <p><strong>Dax,UX/UI,PQy</strong></p>
+  <p><strong>Dax, UX/UI, PQ</strong></p>
 </div>
 </tr>
 </table>
