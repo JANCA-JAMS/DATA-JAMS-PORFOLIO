@@ -88,6 +88,16 @@
 <table>
   <tr>
     <td width="25%">
+<h3 align="center">RH Personnel Mapping</h3>
+<div align="center">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiZjQ5MjAwYmEtOWFkZi00YTk0LWE5OWEtNzNkYWZjMzJlMjM5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" target="_blank">
+    <img src="TP1/Miaturas/03%20-%20Miniatura%20Income%20statement.png" width="240" height="171" alt="Power BI">
+  </a>
+  <p><strong>Dax, PQ, UX/UX</strong></p>
+</div>
+</td>
+    
+    <td width="25%">
       <h3 align="center">Detailed Purchase</h3>
       <div align="center">
         <a href="https://app.powerbi.com/view?r=eyJrIjoiYjYwYzQ2MDUtNDYxYS00MWFiLTg0ZDAtY2ZlNDYwM2M3NTI3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" target="_blank">
